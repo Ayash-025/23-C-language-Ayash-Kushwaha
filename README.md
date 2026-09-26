@@ -1,1 +1,1 @@
-# IC-2K26-23-C-language-Ayash-Kushwaha
+# 23-C-language-Ayash-Kushwaha
