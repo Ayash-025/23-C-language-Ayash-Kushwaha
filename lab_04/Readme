@@ -1,1 +1,10 @@
-.
+# Simple Calculator in C (Lab 04)
+
+A straightforward console-based calculator written in C. This program performs fundamental arithmetic operations (Addition, Subtraction, Multiplication, and Division) utilizing floating-point numbers for accurate decimal calculations. 
+
+## 🚀 Features
+* Performs mathematical operations based on user-input operators (`+`, `-`, `*`, `/`).
+* Processes decimal values using `float` variables.
+* Clean and interactive command-line interface.
+
+* program uses do while loop and switch statement for continous calculation
